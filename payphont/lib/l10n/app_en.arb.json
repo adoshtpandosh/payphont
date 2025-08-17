@@ -1,0 +1,3 @@
+{
+  "content": "{\n  \"@@locale\": \"en\",\n  \"appTitle\": \"Payphont\",\n  \"contacts\": \"Contacts\",\n  \"finance\": \"Finance\",\n  \"reports\": \"Reports\",\n  \"settings\": \"Settings\",\n  \"addContact\": \"Add Contact\",\n  \"amount\": \"Amount\",\n  \"description\": \"Description\",\n  \"save\": \"Save\",\n  \"cancel\": \"Cancel\",\n  \"delete\": \"Delete\",\n  \"edit\": \"Edit\",\n  \"search\": \"Search...\",\n  \"selectLanguage\": \"Select Language\",\n  \"pinCode\": \"PIN Code\",\n  \"biometricAuth\": \"Login with Biometric\",\n  \"addTransaction\": \"Add Transaction\",\n  \"type\": \"Type\",\n  \"requiredField\": \"This field is required\",\n  \"changePin\": \"Change PIN\"\n}"
+}

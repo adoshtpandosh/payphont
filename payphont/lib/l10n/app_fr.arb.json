@@ -1,0 +1,3 @@
+{
+  "content": "{\n  \"@@locale\": \"fr\",\n  \"appTitle\": \"Payphont\",\n  \"contacts\": \"Contacts\",\n  \"finance\": \"Finance\",\n  \"reports\": \"Rapports\",\n  \"settings\": \"Paramètres\",\n  \"addContact\": \"Ajouter un contact\",\n  \"amount\": \"Montant\",\n  \"description\": \"Description\",\n  \"save\": \"Enregistrer\",\n  \"cancel\": \"Annuler\",\n  \"delete\": \"Supprimer\",\n  \"edit\": \"Modifier\",\n  \"search\": \"Rechercher...\",\n  \"selectLanguage\": \"Choisir la langue\",\n  \"pinCode\": \"Code PIN\",\n  \"biometricAuth\": \"Connexion biométrique\",\n  \"addTransaction\": \"Ajouter une transaction\",\n  \"type\": \"Type\",\n  \"requiredField\": \"Ce champ est requis\",\n  \"changePin\": \"Changer le PIN\"\n}"
+}

@@ -1,0 +1,3 @@
+{
+  "content": "{\n  \"@@locale\": \"ar\",\n  \"appTitle\": \"Payphont\",\n  \"contacts\": \"جهات الاتصال\",\n  \"finance\": \"المالية\",\n  \"reports\": \"التقارير\",\n  \"settings\": \"الإعدادات\",\n  \"addContact\": \"إضافة جهة اتصال\",\n  \"amount\": \"المبلغ\",\n  \"description\": \"الوصف\",\n  \"save\": \"حفظ\",\n  \"cancel\": \"إلغاء\",\n  \"delete\": \"حذف\",\n  \"edit\": \"تعديل\",\n  \"search\": \"بحث...\",\n  \"selectLanguage\": \"اختيار اللغة\",\n  \"pinCode\": \"رمز PIN\",\n  \"biometricAuth\": \"تسجيل الدخول بالبصمة\",\n  \"addTransaction\": \"إضافة عملية\",\n  \"type\": \"النوع\",\n  \"requiredField\": \"هذا الحقل مطلوب\",\n  \"changePin\": \"تغيير PIN\"\n}"
+}
