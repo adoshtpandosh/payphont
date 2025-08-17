@@ -1,0 +1,3 @@
+{
+  "content": "{\n  \"@@locale\": \"zh\",\n  \"appTitle\": \"Payphont\",\n  \"contacts\": \"联系人\",\n  \"finance\": \"财务\",\n  \"reports\": \"报告\",\n  \"settings\": \"设置\",\n  \"addContact\": \"添加联系人\",\n  \"amount\": \"金额\",\n  \"description\": \"描述\",\n  \"save\": \"保存\",\n  \"cancel\": \"取消\",\n  \"delete\": \"删除\",\n  \"edit\": \"编辑\",\n  \"search\": \"搜索...\",\n  \"selectLanguage\": \"选择语言\",\n  \"pinCode\": \"PIN码\",\n  \"biometricAuth\": \"生物识别登录\",\n  \"addTransaction\": \"添加交易\",\n  \"type\": \"类型\",\n  \"requiredField\": \"此字段为必填项\",\n  \"changePin\": \"修改 PIN\"\n}"
+}

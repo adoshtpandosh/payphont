@@ -1,0 +1,3 @@
+{
+  "content": "{\n  \"@@locale\": \"fa\",\n  \"appTitle\": \"پی‌فانت\",\n  \"contacts\": \"مخاطبین\",\n  \"finance\": \"مالی\",\n  \"reports\": \"گزارش‌ها\",\n  \"settings\": \"تنظیمات\",\n  \"addContact\": \"افزودن مخاطب\",\n  \"amount\": \"مبلغ\",\n  \"description\": \"توضیحات\",\n  \"save\": \"ذخیره\",\n  \"cancel\": \"لغو\",\n  \"delete\": \"حذف\",\n  \"edit\": \"ویرایش\",\n  \"search\": \"جستجو...\",\n  \"selectLanguage\": \"انتخاب زبان\",\n  \"pinCode\": \"رمز عبور\",\n  \"biometricAuth\": \"ورود با اثر انگشت\",\n  \"addTransaction\": \"افزودن تراکنش\",\n  \"type\": \"نوع\",\n  \"requiredField\": \"این فیلد الزامی است\",\n  \"changePin\": \"تغییر PIN\"\n}"
+}
